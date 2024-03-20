@@ -1,1 +1,5 @@
 /*STYLESHEET FOR THE ASGARD RESIDENTIAL FORM*/
+@font-face{
+    font-family: Norse-Font;
+    src:url(fonts/Norse-Bold.otf);
+}
