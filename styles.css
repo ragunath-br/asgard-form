@@ -20,11 +20,11 @@ body{
     font-family: Norse-Font;
     font-size:10rem;
     margin:0px;
-    color:antiquewhite;
+    color:white;
 }
 
 #odin-image{
-    height:10rem;
-    display:inline;
+    height:10rem;   
+    
 }
 
