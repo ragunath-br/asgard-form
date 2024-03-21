@@ -28,3 +28,8 @@ body{
     
 }
 
+.logo-banner{
+    display:flex;
+    margin-top:30vh;
+}
+
