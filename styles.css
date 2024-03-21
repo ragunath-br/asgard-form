@@ -7,3 +7,8 @@
 body{
     display:flex;
 }
+
+.image-banner-section{
+    background-image: url(./images/mjolnir.jpg);
+    background-size: cover;
+}
