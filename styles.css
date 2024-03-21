@@ -7,12 +7,23 @@
 body{
     display:flex;
     margin:0px;
-       
+    height:100vh;       
 }
 
 .image-banner-section{
     background-image: url(./images/mjolnir.jpg);
     background-size: cover;
     width:40%;       
+}
+
+.rustic-font{
+    font-family: Norse-Font;
+    font-size:10rem;
+    margin:0px;
+}
+
+#odin-image{
+    height:10rem;
+    display:inline;
 }
 
